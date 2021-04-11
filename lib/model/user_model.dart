@@ -2,7 +2,7 @@ class UserModel {
   final String name, urlImage, location, bio;
   final int countFollowers, countFollowing, countPosts;
   final List<String> urlPhotos;
-  final bool isFollowing;
+  bool isFollowing;
 
   UserModel(
       {this.name,

@@ -19,15 +19,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-/*bottomNavigationBar: CurvedNavigationBar(
-        items: [
-          Icon(Icons.home),
-          Icon(Icons.home),
-          Icon(Icons.home),
-          Icon(Icons.home),
-          Icon(Icons.home),
-        ],
-        index: _currentIndex,
-        onTap: _changeItem,
-        backgroundColor: Colors.red,
-      ),*/
